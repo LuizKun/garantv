@@ -693,6 +693,95 @@ http://192.168.1.1:22018/rtp/232.84.1.91:10404
 http://192.168.1.1:22018/rtp/232.84.3.38:11824
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/3jlwft1.png",Xing Kong
 http://192.168.1.1:22018/rtp/232.84.3.189:11056
+#------------------------SCTV------------------------#
+#EXTINF:-1 tvg-id="sctv1hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv1hd/KenhBoSung",SCTV1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv1hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv3hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv3hd/KenhBoSung",SCTV3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv3hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv4hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv4hd/KenhBoSung",SCTV4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv4hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv7hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv7hd/KenhBoSung",SCTV7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv7hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv8hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv8hd/KenhBoSung",SCTV8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv8hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv9hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv9hd/KenhBoSung",SCTV9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv9hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv11hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv11hd/KenhBoSung",SCTV11 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv11hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv12hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv12hd/KenhBoSung",SCTV12 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv12hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv13hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv13hd/KenhBoSung",SCTV13 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv13hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv14hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv14hd/KenhBoSung",SCTV14 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv14hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv15hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv15hd/KenhBoSung",SCTV15 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv15hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv16hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv16hd/KenhBoSung",SCTV16 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv16hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv17hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv17hd/KenhBoSung",SCTV17 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv17hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv18hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv18hd/KenhBoSung",SCTV18 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv18hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv19hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv19hd/KenhBoSung",SCTV19 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv19hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv20hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv20hd/KenhBoSung",SCTV20 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv20hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv21hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv21hd/KenhBoSung",SCTV21 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv21hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv22hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv22hd/KenhBoSung",SCTV22 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv22hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctvhdpth" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctvhdpth/KenhBoSung",SCTV HD Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctvhdpth/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv4k" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv4k/KenhBoSung",SCTV4K 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv4k/ToChaThangVThanh
+#EXTINF:-1 tvg-id="SCTV1.vn@SD" tvg-logo="https://i.imgur.com/UcMXcHF.png" group-title="SCTV",SCTV1 (720p)
+https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
+#EXTINF:-1 tvg-id="SCTV4K.vn@SD" tvg-logo="" group-title="SCTV",SCTV4K (2160p)
+https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
+#EXTINF:-1 tvg-id="SCTV6.vn@SD" tvg-logo="https://i.imgur.com/2oOVS42.png" group-title="SCTV",SCTV6 (1080p)
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="SCTV7.vn@SD" tvg-logo="https://i.imgur.com/xbIUZYd.png" group-title="SCTV",SCTV7 (576i)
+https://liveh12.seenow.vn/hls/SCTV7/03.m3u8
 #------------------------MyTV------------------------#
 #EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Feed Quốc Hội
 http://192.168.1.1:22018/rtp/232.84.3.1:10278
